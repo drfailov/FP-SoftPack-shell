@@ -1,0 +1,265 @@
+[align=center][color=indigo][size=20][b]FP SoftPack 12.05 [Русский, Украинский, Английский][/b][/size][/color][/align][hr]
+[poster=right]http://i37.fastpic.ru/big/2012/0428/85/8911772b67465a0665710f97990b2a85.jpg[/poster] 
+
+[b]Название программы:[/b] FP SoftPack
+[b]Версия программы:[/b] 12.05
+[b]Последняя Версия программы:[/b] 12.05
+[b]Адрес официального сайта:[/b] [url]http://fpsoftpack.narod.ru/[/url]
+[b]Язык интерфейса:[/b] Русский, Украинский, Английский
+
+[b]Лечение:[/b] в комплекте
+[b]Тип лекарства:[/b] другое
+[b]Системные требования:[/b]
+
+Компьютер с Windows XP, Vista или 7
+CPU 1ГГц
+RAM 256MB
+
+[b]Описание:[/b]
+FP SoftPack - это комплекс различного программного обеспечения, необходимого при работе с компьютером. Независимо от рода Вашей деятельности, в FP SoftPack Вы с легкостью найдете именно то, что Вам нужно. FP SoftPack - это, прежде всего, надежность. Перед выпуском новой версии, мы проверяем каждую из программ, во избежание ошибок и сбоев в работе. Интерфейс построен для удобства пользователя. К каждой из программ прилагается Screenshot и описание. А Мастер производит контроль установки, предоставляя широкий ассортимент полезных функций, которые могут понадобится Вам на каждом из этапов установки. Просто наведением курсора мыши на любую интересующую Вас программу, Вы можете с легкостью узнать, что это за ПО, и для чего оно предназначено. Кроме простоты и удобства в использовании, FP SoftPack опровергает знаменитую поговорку о том, что "на вкус и цвет - товарища нет", предоставляя графическое оформление действительно на любой вкус.
+
+[hide=Дополнительная информация:]
+[b]Состав:[/b]
+[spoiler=CD-DVD]+---Ashampoo Burning Studio 10.7 (Ru)
++---AutoPlay Media Studio 7 (En)
++---BurnAware Pro 4.7 (Ru)
++---Daemon Tools 4.45 Lite (Ru)
++---ImgBurn 2.5.5 (En)
++---Navicorp WinToFlash 0.7 (Ru)
++---Nero 7.11 (Ru)
+L---UltraISO 9.3.6 (Ru)
+[/spoiler]
+[spoiler=Безопасность]+---Adv Arc Pass Recovery 4.0 (Ru)
++---AnVir Task Manager 6.7 (Ru)
++---Avast 7 Free (Ru)
++---DrWeb CureIt 02.04.2012 (Ru)
++---FolderGuard 7.92 Pro (Ru)
++---FP FileCoder 2.5 (Ru)
++---Multi Password Recovery 1.2.8 (Ru)
++---RansomHide 0.6.0.24 (Ru)
+L---USB Disk Security 6.0.0 (Ru)
+[/spoiler]
+[spoiler=Графика]+---Adobe Ilustrator CS5 (Ru)
++---Adobe Photoshop CS5 (Ru)
++---Ashampoo Snap 5.1.2 (Ru)
++---Easy GIF Animator Pro 5.2 (Ru)
++---FastStone Capture 6.8 (Ru)
++---FastStone Photo Resizer 3.0 (En)
++---FileImaging 2.0 (En)
++---FP Microtext generator (Ru)
++---GIMP 2.6.11 (Ru)
++---IMANDIX Cover Professional 0.9.3.0 (En)
++---Paint.NET 3.5.10 (Ru)
++---Photoinstrument 4.5 (Ru)
++---PhotoScape 3.5 (Ru)
++---Picasa 3.9 (Ru)
++---PivotX 4.1 (En)
++---Posteriza 1.1.10 (Ru)
++---ScreenShot creator 2.1 (Ru)
++---SnagIt 11.0.0 (Ru)
++---Мастер визиток 3.42 (Ru)
+L---Фото на документы 3.42 (Ru)
+[/spoiler]
+[spoiler=Интернет]+---Adobe FlashPalyer 11
++---BitTorrent 7.6.1 (Ru)
++---BWMeter 5.3.0 (En)
++---Cute FTP Pro 8.3.4 (Ru)
++---DU Meter 5.20 (Ru)
++---DuTraffic 1.5 (Ru)
++---FileZilla 3.3 (Ru)
++---Google Chrome 18.0 (Ru)
++---Google Earth Pro 6.0 (Ru)
++---ICQ 7,5 (Ru)
++---Mozilla Firefox 11.0 (Ru)
++---Mozilla Thunderbird 11.0 (Ru)
++---MyLanViewer 4.4.4 (Ru)
++---NetWorx 5.06 (Ru)
++---ooVoo 3.0 (Ru)
++---Opera 11.52 (Ru)
++---QIP 2012 (Ru)
++---Safari 5.1.5 (Ru)
++---Skype 5.8 (Ru)
++---TeamViewer 7 (Ru)
++---Teleport 1.62 (En)
++---The Bat! 5.0.18 (Ru)
++---Utorrent 3.1.3 (Ru)
++---VK Paint 2.25 (Ru)
+L---VKMusic 4.36 (Ru)
+[/spoiler]
+[spoiler=Мультимедиа]+---Adobe Audition 3 (Ru)
++---Adobe Premiere Pro CS4 (Ru)
++---AIMP 3.0.985 (Ru)
++---All Radio 3.48 (Ru)
++---Digalo 2000 (En)
++---Foobar2000 1.1.11 (En)
++---Format Factory 2.90 (Ru)
++---Fraps 3.4.3 (Ru)
++---HyperCam 3.1 (Ru)
++---K-Lite Codec Pack Mega 8.6.0 (En)
++---KMPlayer 3.2 (Ru)
++---MediaInfo 0.7 (Ru)
++---Movavi Video Suite 9.0.2 (En)
++---Movie Maker 2.6 (Ru)
++---Muvee AutoProducer v6 (En)
++---Muvee Reveal 8.0 (Ru)
+¦   L---StylePack`s
++---Total Video Converter 3.71 (Uk)
++---TS - Widi Pro 4.0 (Ru)
++---Tunatic (En)
+L---Winamp Gold 5.62 (Ru)
+[/spoiler]
+[spoiler=Офис]+---Adobe Reader X 10.1.0 (Ru)
++---AkelPad 4.7.4 (Ru)
++---Borland C++ (En)
++---CheMax 13.2 (Ru)
++---Convert 1.0 (En)
++---Dev C++ 4.9.9.2 (Ru)
++---DjVu Reader 2.0.0.26 (En)
++---Fine Reader 11.0 Pro (Ru)
++---Foxit PDF Creator 3.0 (En)
++---Foxit PDF Editor 2.2.1 (Ru)
++---Foxit reader 5.1.4 (Ru)
++---FP KirDePi4atoR (Ru)
++---FP Soft (Ru)
++---Htm2chm 3.0.9 (En)
++---HTML Reader 2.5 (Ru)
++---Inno Setup 5.4.3 (Ru)
++---Lingvo X5 (Ru)
++---Microsoft Mathematics 4.0 (Ru)
++---Notepad++ 6.1.0 (Ru)
++---Office 2003 sp3 (Ru)
++---Office 2010 (Ru)
++---pdfFactory Pro 4.50 (En)
++---Pragma 6.0.101 (Ru)
++---PROMT Professional 9.0 (Ru)
++---Punto Switcher 3.2.7 (Ru)
++---Restorator 2009 (Ru)
++---Socrat Personal 5.0 (Ru)
++---Stamina 2.5 (Ru)
++---STDU Viewer 1.6.1 (Ru)
++---Stellarium 0.10.6 (Ru)
++---Thinstall Virtualization Suite 3.387 (Ru)
++---TopStyle Lite 3.5 (En)
++---Turbo Pascal 7.1 tpx
++---Verypdf PDF2Word 3.0 (En)
++---VMWare ThinApp 4.6.1 (Ru)
++---YarMap 2 Киев от 04.2011(Ru)
++---База 09 СНГ 2009 (Ru)
++---Болтун 3.0 (Ru)
++---Вечный календарь Pro 2.4 (Ru)
++---Визиком Украина 2009 (Ru)
++---Кулинар 4.0.10 (Ru)
++---Перевод Java игр (Ru)
+L---Соло на клавиатуре 9.0.5 (Ru)
+[/spoiler]
+[spoiler=Персонализация]+---Aura 2.7.4 (Ru)
++---Bumptop Pro 2.1 (Ru)
++---ClassicShell 3.1.0 (Ru)
++---CubeDesktop 1.3.1 (En)
++---Dream Aquarium 1.2415 (En)
++---FP Font Pack
++---FP Gadget Pack
++---FP ScreenSaver Pack
++---FP WallPaper Pack
++---FP XP ThemePack
++---Hyperspace 3D 3.17 (En)
++---iColor Folder 1.42 (En)
++---LClock 1.62 (Ru)
++---Mouse Off-road 2.17 (En)
++---Nexus 12.2 (Ru)
++---Real Desktop 1.74 Standard (Ru)
++---RocketDock 1.3.5 (Ru)
++---Watery Desktop 3.53 (En)
++---Win 7 Logon changer 1.3.4 (En)
++---Win 7 Theme pack
++---Wofty (Ru)
+L---Xtreme XP Theme Pack
+[/spoiler]
+[spoiler=Система]+---3RVX 2.5 (Ru)
++---7-Zip 9.20 (Ru)
++---Acronis Disk Director Suite 11.0.26 (Ru)
++---AIDA64 2.30 (Ru)
++---AnyReader 3.6 (Ru)
++---ArtMoney 7.38 (Ru)
++---Ashampoo Core Tuner 2.01 (Ru)
++---Ashampoo HDD Control 2.08 (Ru)
++---AusLogics BoostSpeed 5.2.1 (Ru)
++---Autoruns 10.07 (Ru)
++---BatteryCare 0.9.9.1 (Ru)
++---Ccleaner 3.17 (Ru)
++---Comodo Time Machine 2.9.16 (En)
++---CPU Control 2.1 (Ru)
++---CPU-Z 1.60 (Ru)
++---CrystalDiskMark 2.2.0 (Ru)
++---Cygnus HEX Editor 1.0.0 (En)
++---DirectX 9.0 (Jun 2010)
++---Driver Genius Pro 11.0 (Ru)
++---Duplicate Cleaner 2.5.4 (En)
++---EasyBCD 2.1 (En)
++---Everest 5.50 Ultimate (Ru)
++---Far Complete 3.0 (Ru)
++---FolderNotify 1.0 (En)
++---FP Reservator (Ru)
++---Free HEX Editor 5.0.1 (En)
++---Game Booster 3.2 (Ru)
++---Glass 2k 0.9.2 (En)
++---GPU-Z 0.5.4 (Ru)
++---Handy Backup Server 6.9.6 (Ru)
++---Handy Recovery 5.0 (En)
++---HashTab 4.0 (Ru)
++---JkDefrag 3.36 (En)
++---Key Remapper 1.03 (En)
++---KLS Backup 2011 Pro 6.2.0 (En)
++---MKey 1.2.17 (Ru)
++---MyDefrag 4.3.1 (Ru)
++---Net. Framework 3.5
++---Net. Framework 4.0
++---Nvidia PhysX 9.10 (En)
++---Oracle Java 6.31
++---Peazip 4.5 (Ru)
++---Process Killer 1.4.2 (Ru)
++---R-Studio 5.4 (Ru)
++---RAR Repair Tool 4.0.1
++---Recuva 1.42 (Ru)
++---Registrar Registry Manager Pro 6.50 (En)
++---Runtime Pack
++---ShutDown 1.17
++---SiSoftware Sandra 2012.05.18 (Ru)
++---SpeedFan 4.46 (Ru)
++---Total Commander 7.02 (Ru)
++---TuneUp 2012 (Ru)
++---UnetBootin 5.68 (Ru)
++---Universal Theme Patcher (Ru)
++---USB Format Tool (En)
++---VirtualBox 4.1.12 (Ru)
++---WAT Remover 2.2.6 (En)
++---Windows Loader 2.1.2 (En)
++---WinRar 4.11 (Ru)
++---WinSetup From USB 1.0 (En)
++---Xilisoft Multiple Desktops 1.0.3 (En)
+L---Your Uninstaller 7.4.2012 (Ru)
+[/spoiler]
+[spoiler=Устройства]+---ActiveSync 4.5 (Ru)
++---Alcor MP 08.04.24 (En)
++---Cyberlink YouCam 5 (Ru)
++---iTunes 10.6.1
++---MobiMB 3.6.1 (Ru)
++---Motorola Phone Tools 5 (En)
++---Nokia PC Suite 7.1 (Ru)
++---Nokia Suite 3.4.35 (Ru)
++---ReadManiac 2.5.2 (Ru)
++---S40 ThemeStudio 2.2 (Ru)
++---Samsung Kies 2.3.0 (Ru)
++---Samsung PC Studio 3.2.1 (En)
++---Scramby 2.0.4 (En)
++---Sjboy Emulator (En)
++---Sony Ericsson PC Suite 6.0 (En)
+L---WebcamMax 7.2.2 (Ru)
+[/spoiler]
+[/hide]
+
+[b]Скриншоты:[/b]
+[URL=http://fastpic.ru/view/33/2012/0428/b4337e4156234ac659daeb2ad3f5807b.jpg.html][IMG]http://i33.fastpic.ru/thumb/2012/0428/7b/b4337e4156234ac659daeb2ad3f5807b.jpeg[/IMG][/URL]  [URL=http://fastpic.ru/view/37/2012/0428/bf811aa82f2b39aad168db6b4cbe823f.jpg.html][IMG]http://i37.fastpic.ru/thumb/2012/0428/3f/bf811aa82f2b39aad168db6b4cbe823f.jpeg[/IMG][/URL]  [URL=http://fastpic.ru/view/37/2012/0428/bf7ec4be37ec8cc27c917e88ca39b3b1.jpg.html][IMG]http://i37.fastpic.ru/thumb/2012/0428/b1/bf7ec4be37ec8cc27c917e88ca39b3b1.jpeg[/IMG][/URL]  
+
+[b]Время раздачи:[/b] первые 3 дня - круглосуточно
+                                

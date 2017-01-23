@@ -1,0 +1,57 @@
+#include <winuser.h>
+#include <winnt.h>
+
+#ifndef IDR_TRAY_MENU
+#define IDR_TRAY_MENU        1500
+#endif
+#ifndef ID_EXIT
+#define ID_EXIT                    1501
+#endif
+#ifndef ID_HIDE
+#define ID_HIDE                    1502
+#endif
+#ifndef ID_RESTORE
+#define ID_RESTORE            1503
+#endif
+
+STRINGTABLE LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+BEGIN
+                1 "FP SoftPack"
+END
+
+IDR_APP_ICON        ICON "./icon.ico"
+
+IDR_TRAY_MENU        MENU
+BEGIN
+                POPUP "&menu"
+                BEGIN
+                                MENUITEM "Exit",                ID_EXIT
+                                MENUITEM SEPARATOR
+                                MENUITEM "Hide",                ID_HIDE
+                                MENUITEM "Restore",            ID_RESTORE
+                END
+END
+
+1 VERSIONINFO
+                FILEVERSION 12,0,0,0
+                PRODUCTVERSION 12,0,0,0
+BEGIN
+                BLOCK "StringFileInfo"
+                BEGIN
+                                BLOCK "040904e4"
+                                BEGIN
+                                                VALUE "CompanyName",                "Fsoft Production\0"
+                                                VALUE "FileDescription",                "FP SoftPack\0"
+                                                VALUE "FileVersion",                "12\0"
+                                                VALUE "InternalName",                "FP SoftPack\0"
+                                                VALUE "LegalCopyright",                "(C) Fsoft Production 2012\0"
+                                                VALUE "OriginalFilename",            "FP_SoftPack.exe\0"
+                                                VALUE "ProductName",                "FP SoftPack\0"
+                                                VALUE "ProductVersion",                "12\0"
+                                END
+                END
+                BLOCK "VarFileInfo"
+                BEGIN
+                                VALUE "Translation",                                        0x409, 1251
+                END
+END

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.png</file>
+        <file>black.png</file>
+        <file>button.png</file>
+        <file>cancel_button.png</file>
+        <file>icon.ico</file>
+        <file>main_area.png</file>
+        <file>nextback.png</file>
+        <file>quere_back.png</file>
+        <file>save_button.png</file>
+        <file>search_button.png</file>
+        <file>substrate.png</file>
+        <file>help_button.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
